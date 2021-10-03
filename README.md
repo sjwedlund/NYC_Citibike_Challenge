@@ -18,5 +18,6 @@ Here is a bar chart of the Number of Bike Rides by Start Time. It illustrates th
 
 ### Checkout Times for Users
 <img width="1040" alt="Screen Shot 2021-10-03 at 3 49 08 PM" src="https://user-images.githubusercontent.com/85920136/135774024-7ee89d90-fdc5-491d-b4d3-5fddc92c31e0.png">
-The above graph illustrates checkout times for an hour or longer, the amount of users drops significantly. 
+The above graph illustrates checkout times for users. The most popular length of time for a bike trip is only 5 minutes long. Once the trip becomes an hour or longer, the amount of users drops significantly. 
+
 ## Summary
