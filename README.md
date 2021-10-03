@@ -24,5 +24,10 @@ The above graph illustrates checkout times for users. The most popular length of
 <img width="1007" alt="Screen Shot 2021-10-03 at 4 00 53 PM" src="https://user-images.githubusercontent.com/85920136/135774320-255ba5bc-f647-42e2-ae99-68c6ce50650c.png">
 The above line graph illustrates checkout times by gender. The most popular checkout time for women is 6 minutes, with with 34,151 female users. The most popular checkout time for men is 5 minutes, with 108,087 male users. There are fewer users of unknown gender, who tend to take slightly longer bike rides. 
 
+### Trips by Weekday Per Hour
+<img width="1015" alt="Screen Shot 2021-10-03 at 4 14 40 PM" src="https://user-images.githubusercontent.com/85920136/135775150-cee605f3-b0d6-45bf-8fb8-607fb406fd64.png">
+The above heatmap illustrates the number of trips by weekday per hour. The legend displays the color assignment for the heatmap. Light orange shows a minimum of 360 trips, and dark orange-red illustrates up to 44,905 trips. It is apparent that 5 and 6 pm are the most common times for trips, and that the wee hours of the morning are the least popular times. 
+
+
 
 ## Summary
