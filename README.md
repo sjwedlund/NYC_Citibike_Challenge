@@ -20,4 +20,9 @@ Here is a bar chart of the Number of Bike Rides by Start Time. It illustrates th
 <img width="1040" alt="Screen Shot 2021-10-03 at 3 49 08 PM" src="https://user-images.githubusercontent.com/85920136/135774024-7ee89d90-fdc5-491d-b4d3-5fddc92c31e0.png">
 The above graph illustrates checkout times for users. The most popular length of time for a bike trip is only 5 minutes long. Once the trip becomes an hour or longer, the amount of users drops significantly. 
 
+### Checkout Times by Gender
+<img width="1007" alt="Screen Shot 2021-10-03 at 4 00 53 PM" src="https://user-images.githubusercontent.com/85920136/135774320-255ba5bc-f647-42e2-ae99-68c6ce50650c.png">
+The above line graph illustrates checkout times by gender. The most popular checkout time for women is 6 minutes, with with 34,151 female users. The most popular checkout time for men is 5 minutes, with 108,087 male users. There are fewer users of unknown gender, who tend to take slightly longer bike rides. 
+
+
 ## Summary
