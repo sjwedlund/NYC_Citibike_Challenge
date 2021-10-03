@@ -10,7 +10,7 @@ The purpose of this analysis is to present investors with a bike trip analysis t
 
 ### Top Starting Locations
 <img width="1031" alt="Screen Shot 2021-10-03 at 3 34 35 PM" src="https://user-images.githubusercontent.com/85920136/135773595-a9aaa6d6-60c3-45ed-9667-da3824d87064.png">
-The above map illustrates the top Citibike starting locations in NYC, where users pick up their bikes to begin their ride. Although NYC is a different city than Des Moines, it is useful to see what types of areas where bike pickups are located. 
+The first image above is a map illustrates the top Citibike starting locations in NYC, where users pick up their bikes to begin their ride. Although NYC is a different city than Des Moines, it is useful to see what types of areas where bike pickups are located. 
 
 ### Number of Bike Rides by Start Time
 <img width="1021" alt="Screen Shot 2021-10-03 at 3 42 43 PM" src="https://user-images.githubusercontent.com/85920136/135773863-66eaddf8-aed9-455b-b0d5-f0d46d40bdd7.png">
@@ -28,6 +28,16 @@ The above line graph illustrates checkout times by gender. The most popular chec
 <img width="1015" alt="Screen Shot 2021-10-03 at 4 14 40 PM" src="https://user-images.githubusercontent.com/85920136/135775150-cee605f3-b0d6-45bf-8fb8-607fb406fd64.png">
 The above heatmap illustrates the number of trips by weekday per hour. The legend displays the color assignment for the heatmap. Light orange shows a minimum of 360 trips, and dark orange-red illustrates up to 44,905 trips. It is apparent that 5 and 6 pm are the most common times for trips, and that the wee hours of the morning are the least popular times. 
 
+### Trips by Gender
+<img width="1018" alt="Screen Shot 2021-10-03 at 4 18 00 PM" src="https://user-images.githubusercontent.com/85920136/135775237-d61abcfb-42cc-421b-9d7f-95fc7d4b0f9a.png">
+The above heatmap shows trips by weekday per hour by gender. In the link, there is a sliding bar that allows the viewer to see all genders. It is clear that men make up the majority of users by the concentration of orange red on their chart. The females chart has a similar distrubution as the male chart, but in a lighter shade of orange. Both men and women tend to ride more during the weekday peak traffic hours. Users of unknown gender tend to ride Citibikes slightly more often on the weekend. 
 
+### User Trips by Gender by Weekday
+<img width="1011" alt="Screen Shot 2021-10-03 at 4 23 58 PM" src="https://user-images.githubusercontent.com/85920136/135775377-0acfbbba-c15e-44ff-b9dd-34044d3f551e.png">
+The above heatmap illustrates user trips by gender by weekday, and a breakdown between subscribers and customers. The legend displays the color coding of the heatmap: from seafoam green at the low point of 3,528 users and dark indigo at 259,316 users. It is apparent that the most trips are taken by male subscripers, followed by female subscribers. 
+
+### Top Ending Locations
+<img width="1012" alt="Screen Shot 2021-10-03 at 4 27 57 PM" src="https://user-images.githubusercontent.com/85920136/135775486-bdd3bd23-23ab-4fa9-b139-f2f69d90f259.png">
+The final image is a map of Top Ending Locations in NYC. It is very similar to the Top Starting Locations. It's helpful to see what destinations people are riding to. 
 
 ## Summary
