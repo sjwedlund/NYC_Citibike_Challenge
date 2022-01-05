@@ -43,4 +43,3 @@ The final image is a map of Top Ending Locations in NYC. It is very similar to t
 ## Summary
 The results of my analysis is that the biggest group of users in NYC are male subscribers who most likely ride Citibikes on their commute home from work, which takes about 5 minutes. 
 For further research, I would include Trips by Weekday per Hour in January, to see how much a difference there is in usage. I would also look at Checkout Times for Users in January as well. 
-One graph I would have included, but didn't, is Average Trip Duration (distance). The reason I didn't include that graph, is because I assumed the distance of measurement would be miles, but the numbers didn't add up. I don't know if they were using meters, or what, but the numbers seemed really high compared to the average trip duration in minutes. 
