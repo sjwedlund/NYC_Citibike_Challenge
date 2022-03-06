@@ -42,4 +42,4 @@ The final image is a map of Top Ending Locations in NYC. It is very similar to t
 
 ## Summary
 The results of my analysis is that the biggest group of users in NYC are male subscribers who most likely ride Citibikes on their commute home from work, which takes about 5 minutes. 
-For further research, I would include Trips by Weekday per Hour in January, to see how much a difference there is in usage. I would also look at Checkout Times for Users in January as well. 
+For further research, I would include Trips by Weekday per Hour in January, to see how much a difference there is in usage. I would also look at Checkout Times for Users in January as well. In addition, New York City is not a valid comparison to Des Moines, IA. For additional research, I would find bike trip data for a smaller, more rural town comparable with Des Moines. 
