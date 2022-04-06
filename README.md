@@ -4,7 +4,7 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis is to present investors with a bike trip analysis of NYC Citibikes to show that a bike-sharing program in Des Moines is a solid business proposal. 
+The purpose of this analysis is to present investors with a bike trip analysis of NYC Citibikes to help them decide whether to start a bike-sharing program in Des Moines. 
 
 ## Results
 
@@ -42,4 +42,4 @@ The final image is a map of Top Ending Locations in NYC. It is very similar to t
 
 ## Summary
 The results of my analysis is that the biggest group of users in NYC are male subscribers who most likely ride Citibikes on their commute home from work, which takes about 5 minutes. 
-For further research, I would include Trips by Weekday per Hour in January, to see how much a difference there is in usage. I would also look at Checkout Times for Users in January as well. In addition, New York City is not a valid comparison to Des Moines, IA. For additional research, I would find bike trip data for a smaller, more rural town comparable with Des Moines. 
+For further research, I would include Trips by Weekday per Hour in January, to see how much a difference there is in usage. I would also look at Checkout Times for Users in January as well. In addition, New York City is not a valid comparison to Des Moines, IA. For additional research, I would find bike trip data for a smaller, more rural town comparable with Des Moines. [Here is a story about rural bikesharing in the US for further research.](https://betterbikeshare.org/2019/11/13/a-look-into-bike-share-in-rural-communities/)
